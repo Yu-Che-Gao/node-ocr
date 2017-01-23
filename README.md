@@ -1,7 +1,7 @@
 # Node Ocr
 
 ## Pre Installation
-需先安裝[tessract](https://github.com/tesseract-ocr/tesseract)
+需先安裝[node-tessract](https://github.com/desmondmorris/node-tesseract)
 
 ## Example
 
