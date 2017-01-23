@@ -5,6 +5,7 @@
 
 ## Example
 
+```javascript
 var tesseract = require('node-tesseract')
 
 // Recognize text of any language in any format
@@ -15,3 +16,4 @@ tesseract.process(__dirname + '\\test.png', (err, text) => {
         console.log(text)
     }
 })
+```
