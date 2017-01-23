@@ -1,4 +1,4 @@
-var tesseract = require('node-tesseract');
+var tesseract = require('node-tesseract')
 
 // Recognize text of any language in any format
 tesseract.process(__dirname + '\\test.png', (err, text) => {
